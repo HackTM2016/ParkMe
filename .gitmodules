@@ -1,0 +1,9 @@
+[submodule "parkme-api"]
+	path = parkme-api
+	url = https://github.com/SyntaxError2015/parkme-api
+[submodule "parkme-rpi"]
+	path = parkme-rpi
+	url = https://github.com/SyntaxError2015/parkme-rpi
+[submodule "ParkMeMobile"]
+	path = ParkMeMobile
+	url = https://github.com/SyntaxError2015/ParkMeMobile
